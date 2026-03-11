@@ -2,38 +2,6 @@
 
 **A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.**
 
-<a href="https://trendshift.io/repositories/10421" target="_blank">
-  <img
-    src="https://trendshift.io/api/badge/repositories/10421"
-    alt="miantiao-me/Sink | Trendshift"
-    width="250"
-    height="55"
-  />
-</a>
-<a href="https://news.ycombinator.com/item?id=40843683" target="_blank">
-  <img
-    src="https://hackernews-badge.vercel.app/api?id=40843683"
-    alt="Featured on Hacker News"
-    width="250"
-    height="55"
-  />
-</a>
-<a href="https://hellogithub.com/repository/57771fd91d1542c7a470959b677a9944" target="_blank">
-  <img
-    src="https://abroad.hellogithub.com/v1/widgets/recommend.svg?rid=57771fd91d1542c7a470959b677a9944&claim_uid=qi74Zp23wYKeAVB&theme=neutral"
-    alt="Featured｜HelloGitHub"
-    width="250"
-    height="55"
-  />
-</a>
-<a href="https://www.uneed.best/tool/sink" target="_blank">
-  <img
-    src="https://www.uneed.best/POTW1.png"
-    alt="Uneed Badge"
-    width="250"
-    height="55"
-  />
-</a>
 
 [<img src="https://devin.ai/assets/deepwiki-badge.png" alt="DeepWiki" height="20"/>](https://deepwiki.com/miantiao-me/Sink)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F69652?style=flat&logo=cloudflare&logoColor=white)
